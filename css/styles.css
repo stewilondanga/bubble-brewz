@@ -359,13 +359,13 @@ body {
   }
 }
 
-/*#pompa10 {
+#pompa10 {
   -webkit-animation: pompa10 2.5s Ease infinite;
   -moz-animation: pompa10 2.5s Ease infinite;
   animation: pompa10 2.5s Ease infinite;
 }
 
-@-webkit-keyframes pompa10 {
+/*@-webkit-keyframes pompa10 {
   60% {
     opacity: 0.5;
   }
