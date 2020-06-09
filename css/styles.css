@@ -19,12 +19,13 @@ body {
   background-color: yellow;
 }
 
-/*#mago{
-	width: 400px;
-	height: 600px;
-	margin: auto;
+#mago {
+  width: 400px;
+  height: 600px;
+  margin: auto;
 }
-#gato {
+
+/*#gato {
   background: url('http://evasantos.com/ilustraciones/mago/img/gatito2.svg');
     height: 175px;
     width: 150.5px;
