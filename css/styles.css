@@ -447,13 +447,13 @@ body {
   }
 }
 
-/* #pompa13 {
+#pompa13 {
   -webkit-animation: pompa13 2.7s Ease infinite;
   -moz-animation: pompa13 2.7s Ease infinite;
   animation: pompa13 2.7s Ease infinite;
 }
 
-@-webkit-keyframes pompa13 {
+/*@-webkit-keyframes pompa13 {
   40% {
     opacity: 0.7;
   }
