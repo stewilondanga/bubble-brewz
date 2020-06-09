@@ -72,14 +72,14 @@ body {
   }
 }
 
-/*#pompa1 {
+#pompa1 {
   -webkit-animation: pompa1 3s Ease infinite;
   -moz-animation: pompa1 3s Ease infinite;
   -ms-animation: pompa1 3s Ease infinite;
   animation: pompa1 3s Ease infinite;
 }
 
-@-moz-keyframes pompa1 {
+/*@-moz-keyframes pompa1 {
   60% {
     opacity: 0.8;
   }
