@@ -311,13 +311,13 @@ body {
   animation: pompa1 3.5s Ease infinite;
 }
 
-/*#pompa9 {
+#pompa9 {
   -webkit-animation: pompa9 4s Ease infinite;
   -moz-animation: pompa9 4s Ease infinite;
   animation: pompa9 4s Ease infinite;
 }
 
-@-webkit-keyframes pompa9 {
+/*@-webkit-keyframes pompa9 {
   0% {
     transform: translate(0px, 0px);
   }
