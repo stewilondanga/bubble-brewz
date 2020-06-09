@@ -155,13 +155,13 @@ body {
   }
 }
 
-/*#pompa3 {
+#pompa3 {
   -moz-animation: pompa3 3.7s 1s Ease infinite;
   -webkit-animation: pompa3 3.7s 1s Ease infinite;
   animation: pompa3 3.7s 1s Ease infinite;
 }
 
-@-webkit-keyframes pompa3 {
+/*@-webkit-keyframes pompa3 {
   60% {
     opacity: 0.8;
   }
