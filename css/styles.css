@@ -381,7 +381,7 @@ body {
   animation: pompa11 2.5s Ease infinite;
 }
 
-/*@-webkit-keyframes pompa11 {
+@-webkit-keyframes pompa11 {
   60% {
     opacity: 0.5;
   }
@@ -391,7 +391,7 @@ body {
   }
 }
 
-@-moz-keyframes pompa11 {
+/*@-moz-keyframes pompa11 {
   60% {
     opacity: 0.5;
   }
