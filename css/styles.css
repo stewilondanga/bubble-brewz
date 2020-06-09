@@ -489,7 +489,7 @@ body {
   animation: mano_derch 1s Ease infinite;
 }
 
-/*@-webkit-keyframes mano_derch {
+@-webkit-keyframes mano_derch {
   0% {
     -webkit-transform: rotate(-0.4deg);
   }
@@ -503,7 +503,7 @@ body {
   }
 }
 
-@-moz-keyframes mano_derch {
+/*@-moz-keyframes mano_derch {
   0% {
     transform: rotate(-0.4deg);
   }
