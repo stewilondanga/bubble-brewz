@@ -25,15 +25,16 @@ body {
   margin: auto;
 }
 
-/*#gato {
+#gato {
   background: url('http://evasantos.com/ilustraciones/mago/img/gatito2.svg');
-    height: 175px;
-    width: 150.5px;
-    position: absolute;
-    margin-top: 310px;
-    margin-left: 250px;
- }
-#gato:hover {
+  height: 175px;
+  width: 150.5px;
+  position: absolute;
+  margin-top: 310px;
+  margin-left: 250px;
+}
+
+/*#gato:hover {
   -webkit-animation: sprite-animation 5s steps(27,end) infinite; /* steps = number of frames */
 -moz-animation: sprite-animation 5s steps(27, end) infinite;
 /* steps = number of frames */
