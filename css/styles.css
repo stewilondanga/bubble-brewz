@@ -119,13 +119,13 @@ body {
   }
 }
 
-/*#pompa2 {
+#pompa2 {
   -moz-animation: pompa2 4s Ease infinite;
   -webkit-animation: pompa2 4s Ease infinite;
   animation: pompa2 4s Ease infinite;
 }
 
-@-moz-keyframes pompa2 {
+/*@-moz-keyframes pompa2 {
   60% {
     opacity: 0.8;
   }
