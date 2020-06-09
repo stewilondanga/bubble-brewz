@@ -580,7 +580,7 @@ body {
   }
 }
 
-/*@keyframes mano_izq {
+@keyframes mano_izq {
   0% {
     transform: rotate(0.5deg);
   }
@@ -594,7 +594,7 @@ body {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
