@@ -503,7 +503,7 @@ body {
   }
 }
 
-/*@-moz-keyframes mano_derch {
+@-moz-keyframes mano_derch {
   0% {
     transform: rotate(-0.4deg);
   }
@@ -517,7 +517,7 @@ body {
   }
 }
 
-@keyframes mano_derch {
+/*@keyframes mano_derch {
   0% {
     transform: rotate(-0.4deg);
   }
