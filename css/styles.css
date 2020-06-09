@@ -531,14 +531,14 @@ body {
   }
 }
 
-/*#izq {
+#izq {
   -webkit-animation: mano_izq 1s Ease infinite;
   -moz-animation: mano_izq 1s Ease infinite;
   -ms-animation: mano_izq 1s Ease infinite;
   animation: mano_izq 1s Ease infinite;
 }
 
-@-webkit-keyframes mano_izq {
+/*@-webkit-keyframes mano_izq {
   0% {
     transform: rotate(0.5deg);
   }
