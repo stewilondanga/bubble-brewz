@@ -135,7 +135,7 @@ body {
   }
 }
 
-/*@-webkit-keyframes pompa2 {
+@-webkit-keyframes pompa2 {
   60% {
     opacity: 0.8;
   }
@@ -145,7 +145,7 @@ body {
   }
 }
 
-@keyframes pompa2 {
+/*@keyframes pompa2 {
   60% {
     opacity: 0.8;
   }
