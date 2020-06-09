@@ -483,13 +483,13 @@ body {
   }
 }
 
-/*#derch {
+#derch {
   -webkit-animation: mano_derch 1s Ease infinite;
   -moz-animation: mano_derch 1s Ease infinite;
   animation: mano_derch 1s Ease infinite;
 }
 
-@-webkit-keyframes mano_derch {
+/*@-webkit-keyframes mano_derch {
   0% {
     -webkit-transform: rotate(-0.4deg);
   }
