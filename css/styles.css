@@ -34,11 +34,12 @@ body {
   margin-left: 250px;
 }
 
-/*#gato:hover {
-  -webkit-animation: sprite-animation 5s steps(27,end) infinite; /* steps = number of frames */
--moz-animation: sprite-animation 5s steps(27, end) infinite;
-/* steps = number of frames */
-animation: sprite-animation 5s steps(27, end) infinite;
+#gato:hover {
+  -webkit-animation: sprite-animation 5s steps(27, end) infinite;
+  /* steps = number of frames */
+  -moz-animation: sprite-animation 5s steps(27, end) infinite;
+  /* steps = number of frames */
+  animation: sprite-animation 5s steps(27, end) infinite;
 }
 
 /*@-webkit-keyframes sprite-animation {
