@@ -285,7 +285,7 @@ body {
   }
 }
 
-/*@-moz-keyframes pompa7 {
+@-moz-keyframes pompa7 {
   60% {
     opacity: 0.8;
   }
@@ -295,7 +295,7 @@ body {
   }
 }
 
-@keyframes pompa7 {
+/*@keyframes pompa7 {
   60% {
     opacity: 0.8;
   }
