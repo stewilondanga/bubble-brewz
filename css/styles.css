@@ -552,7 +552,7 @@ body {
   }
 }
 
-/*@-ms-keyframes mano_izq {
+@-ms-keyframes mano_izq {
   0% {
     -ms-transform: rotate(0.5deg);
   }
@@ -566,7 +566,7 @@ body {
   }
 }
 
-@-moz-keyframes mano_izq {
+/*@-moz-keyframes mano_izq {
   0% {
     transform: rotate(0.5deg);
   }
