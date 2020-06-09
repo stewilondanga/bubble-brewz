@@ -89,7 +89,7 @@ body {
   }
 }
 
-/*@-webkit-keyframes pompa1 {
+@-webkit-keyframes pompa1 {
   60% {
     opacity: 0.8;
   }
@@ -99,7 +99,7 @@ body {
   }
 }
 
-@-ms-keyframes pompa1 {
+/*@-ms-keyframes pompa1 {
   60% {
     opacity: 0.8;
   }
