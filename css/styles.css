@@ -427,7 +427,7 @@ body {
   }
 }
 
-/*@-moz-keyframes pompa12 {
+@-moz-keyframes pompa12 {
   40% {
     opacity: 0.7;
   }
@@ -437,7 +437,7 @@ body {
   }
 }
 
-@keyframes pompa12 {
+/*@keyframes pompa12 {
   40% {
     opacity: 0.7;
   }
