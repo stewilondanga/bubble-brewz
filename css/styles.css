@@ -42,7 +42,7 @@ body {
   animation: sprite-animation 5s steps(27, end) infinite;
 }
 
-/*@-webkit-keyframes sprite-animation {
+@-webkit-keyframes sprite-animation {
   from {
     background-position: 0 0;
   }
@@ -52,7 +52,7 @@ body {
   }
 }
 
-@-moz-keyframes sprite-animation {
+/*@-moz-keyframes sprite-animation {
   from {
     background-position: 0 0;
   }
