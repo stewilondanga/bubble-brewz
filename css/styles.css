@@ -345,7 +345,7 @@ body {
   }
 }
 
-/*@keyframes pompa9 {
+@keyframes pompa9 {
   0% {
     transform: translate(0px, 0px);
   }
@@ -359,7 +359,7 @@ body {
   }
 }
 
-#pompa10 {
+/*#pompa10 {
   -webkit-animation: pompa10 2.5s Ease infinite;
   -moz-animation: pompa10 2.5s Ease infinite;
   animation: pompa10 2.5s Ease infinite;
