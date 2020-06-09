@@ -181,7 +181,7 @@ body {
   }
 }
 
-/*@keyframes pompa3 {
+@keyframes pompa3 {
   60% {
     opacity: 0.8;
   }
@@ -191,7 +191,7 @@ body {
   }
 }
 
-#pompa4 {
+/*#pompa4 {
   -webkit-animation: pompa1 2.9s 1s Ease infinite;
   -moz-animation: pompa1 2.9s 1s Ease infinite;
   animation: pompa1 2.9s 1s Ease infinite;
