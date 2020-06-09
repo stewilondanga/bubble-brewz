@@ -125,7 +125,7 @@ body {
   animation: pompa2 4s Ease infinite;
 }
 
-/*@-moz-keyframes pompa2 {
+@-moz-keyframes pompa2 {
   60% {
     opacity: 0.8;
   }
@@ -135,7 +135,7 @@ body {
   }
 }
 
-@-webkit-keyframes pompa2 {
+/*@-webkit-keyframes pompa2 {
   60% {
     opacity: 0.8;
   }
