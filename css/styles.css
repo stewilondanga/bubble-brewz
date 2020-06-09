@@ -233,13 +233,13 @@ body {
   }
 }
 
-/*#pompa6 {
+#pompa6 {
   -webkit-animation: pompa6 2.8s Ease infinite;
   -moz-animation: pompa6 2.8s Ease infinite;
   animation: pompa6 2.8s Ease infinite;
 }
 
-@-webkit-keyframes pompa6 {
+/*@-webkit-keyframes pompa6 {
   60% {
     opacity: 0.8;
   }
